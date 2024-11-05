@@ -16,3 +16,12 @@ This repository provides a simple, automated Bash script for creating and config
    ```bash
    git clone https://github.com/Axemedia-in/vps-swap-setup.git
    cd vps-swap-setup
+   
+2. Run the Script
+Run the script with a custom swap size. For example, to create a 2GB swap file:
+   ```bash
+   bash create-swap.sh 2G
+   
+If no size is specified, the default size is *4G*:
+   ```bash
+   bash create-swap.sh
