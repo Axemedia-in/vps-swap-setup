@@ -1,4 +1,4 @@
-# VPS Swap Setup
+# Auto VPS Swap Setup Script For Ubuntu
 
 ![Version](https://img.shields.io/badge/Version-1.1-blue)
 ![OS](https://img.shields.io/badge/OS-Ubuntu-lightgray)
