@@ -2,6 +2,10 @@
 
 This repository provides a simple, automated Bash script for creating and configuring swap memory on a VPS running Ubuntu. With this script, you can set up a swap file in one command, specifying your desired swap size.
 
+![Version](https://img.shields.io/badge/version-1.1-blue)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+![Fork](https://img.shields.io/badge/fork-open%20to%20fork-lightgrey)
+
 ## Features
 
 - Creates a swap file with a specified size.
