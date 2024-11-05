@@ -38,7 +38,8 @@ This repository provides a simple, automated Bash script for creating and config
    ```bash
    curl -sSL https://raw.githubusercontent.com/Axemedia-in/vps-swap-setup/main/create-swap.sh | bash -s 1G
    ```
-**Configuration**
+   
+## Configuration
 
 This script includes system tweaks for optimized memory management:
 
