@@ -9,6 +9,12 @@
 
 This repository provides a simple, automated Bash script for creating and configuring swap memory on a VPS running Ubuntu. With this script, you can set up a swap file in one command, specifying your desired swap size.
 
+Optimize your Ubuntu VPS performance effortlessly with our Auto VPS Swap Setup Script. Designed for simplicity and efficiency, this script automates the process of creating and configuring swap memory on your server, ensuring smooth operations across all major VPS providers, including Google Cloud, AWS, Linode, DigitalOcean, Vultr, and more.
+
+Whether you're managing a cloud-based application, hosting websites, or running intensive processes, our script helps prevent memory exhaustion by providing additional virtual memory when needed.
+
+Enhance your Ubuntu VPS capabilities today with our user-friendly Auto VPS Swap Setup Script and ensure your applications run smoothly under varying loads!
+
 ## Features
 
 - Creates a swap file with a specified size.
