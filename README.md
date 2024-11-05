@@ -42,5 +42,5 @@ If no size is specified, the default size is *4G*:
 
 This script includes system tweaks for optimized memory management:
 
-*vm.swappiness:* Set to *10* to reduce swap usage.
+*vm.swappiness:* Set to *10* to reduce swap usage. <br>
 *vm.vfs_cache_pressure:* Set to *50* to prioritize caching of directory entries and inodes.
