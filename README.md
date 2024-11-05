@@ -19,25 +19,25 @@ This repository provides a simple, automated Bash script for creating and config
    ```
    
 2. **Run the Script**
-   Run the script with a custom swap size. For example, to create a 2GB swap file:<br>
-      ```bash
-         bash create-swap.sh 2G
-      ```
-   <br>
+   Run the script with a custom swap size. For example, to create a 2GB swap file:
+   ```bash
+      bash create-swap.sh 2G
+   ```
+      
    If no size is specified, the default size is *4G*:
-      ```bash
-         bash create-swap.sh
-      ```
-<br>
+   ```bash
+    bash create-swap.sh
+   ```
+
 3. **One-Line Command:**
-      To run the script directly from GitHub, use this one-liner:
-         ```bash
-         curl -sSL https://raw.githubusercontent.com/Axemedia-in/vps-swap-setup/main/create-swap.sh | bash -s <SWAP_SIZE>
-         ```
-      For example, to create a 1GB swap:
-         ```bash
-         curl -sSL https://raw.githubusercontent.com/Axemedia-in/vps-swap-setup/main/create-swap.sh | bash -s 1G
-         ```
+   To run the script directly from GitHub, use this one-liner:
+   ```bash
+   curl -sSL https://raw.githubusercontent.com/Axemedia-in/vps-swap-setup/main/create-swap.sh | bash -s <SWAP_SIZE>
+   ```
+   For example, to create a 1GB swap:
+   ```bash
+   curl -sSL https://raw.githubusercontent.com/Axemedia-in/vps-swap-setup/main/create-swap.sh | bash -s 1G
+   ```
 **Configuration**
 
 This script includes system tweaks for optimized memory management:
