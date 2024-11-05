@@ -45,3 +45,8 @@ This script includes system tweaks for optimized memory management:
 
 *vm.swappiness:* Set to *10* to reduce swap usage. <br>
 *vm.vfs_cache_pressure:* Set to *50* to prioritize caching of directory entries and inodes.
+
+<be>
+
+This code is made and licensed to Axe Media and Akhilesh Kovangal (CEO and Founder).
+Feel free to copy and paste this version into your `README.md`. Let me know if there’s anything else you would like to add or modify!
